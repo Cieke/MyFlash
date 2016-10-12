@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyFlash</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="turn_on">Turn On</string>
 </resources>
